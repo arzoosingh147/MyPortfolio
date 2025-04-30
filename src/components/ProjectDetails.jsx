@@ -5,7 +5,7 @@ import { useParams, Link } from "react-router-dom";
 const dummyProjects = {
   sahayak: {
     title: "Sahayak",
-    image: "/src/assets/projects/sahayak.png",
+    image: "/sahayak.png",
     description: "Sahayak is a safe and supportive space designed to help individuals struggling with mental health issues. It focuses on community-driven healing, daily mood tracking, and access to professional resources.",
     features: [
       "Forum with editable, anonymous posts and emoji reactions",
@@ -17,7 +17,7 @@ const dummyProjects = {
   },
   miirupan: {
     title: "Miirupan",
-    image: "/src/assets/projects/miirupan.png",
+    image: "/miirupan.png",
     description: "Miirupan is a creative platform for developers, designers, and writers to collaborate, pitch projects, and build together. Inspired by the SuperHello design, it blends community interaction with practical functionality.",
     features: [
      " Post and discover freelance projects",
@@ -33,7 +33,7 @@ const dummyProjects = {
   },
   "noenoe": {
     title: "Noenoe",
-    image: "/src/assets/projects/noenoe.png",
+    image: "/noenoe.png",
     description: "NoeNoe is a minimal, frontend-only React project focused on promoting recycling through a fun and modern user interface. It blends purposeful design with gamified elements to motivate users to recycle more.",
     features: [
      "Upload section for recyclable items",
@@ -47,7 +47,7 @@ const dummyProjects = {
   },
   "ecofy": {
     title: "Ecofy",
-    image: "/src/assets/projects/ecofy.png",
+    image: "/ecofy.png",
     description: "Gamified app where users upload recyclable items and earn badges or rewards, promoting sustainability in a fun way.",
     features: [
       "Upload item with photo",
@@ -58,7 +58,7 @@ const dummyProjects = {
   },
   "clothcrew": {
     title: "ClothCrew",
-    image: "/src/assets/projects/clothcrew.png",
+    image: "/clothcrew.png",
     description: "Laundry website for those who think that it is a serious chore and are lazy and can't do it by themselves so we as cloth crew take your clothes and wash them for a cretain monthly pricing",
     features: [
       "Select our plan then enjoy our services "
@@ -66,7 +66,7 @@ const dummyProjects = {
   },
   "focus": {
     title: "Focus On Today",
-    image: "/src/assets/projects/fot.png",
+    image: "/fot.png",
     description: "To do list :)",
     features: [
       "Keeps track of your important stuff you need to do"

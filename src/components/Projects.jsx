@@ -9,7 +9,7 @@ const dummyProjects = [
     description: "Freelancer collab platform to post, find, and team up on projects , It's my favorite website (REACT JS,  FRAMER , TAILWIND CSS)",
     github: "https://github.com/arzoosingh147/Sahayak",
     live: "",
-    image: "/src/assets/projects/sahayak.png"
+    image: "sahayak.png"
   },
   {
     id: "miirupan",
@@ -17,7 +17,7 @@ const dummyProjects = [
     description: "Freelancer collab platform to post, find, and team up on projects.(Did not definitely think of my own self before making this website (REACT JS,  FRAMER , TAILWIND CSS)",
     github: "https://github.com/arzoosingh147/Miirupan",
     live: "",
-    image: "/src/assets/projects/miirupan.png"
+    image: "miirupan.png"
   },
   {
     id: "noenoe",
@@ -25,7 +25,7 @@ const dummyProjects = [
     description: "I know the name is very silly but it is what it is. Upload recyclable items, earn badges and streak points (REACT JS,  FRAMER , TAILWIND CSS)",
     github: "https://github.com/arzoosingh147/NoeNoe",
     live: "",
-    image: "/src/assets/projects/noenoe.png"
+    image: "noenoe.png"
   },
   {
     id: "ecofy",
@@ -33,7 +33,7 @@ const dummyProjects = [
     description: "Ecofy an innovative waste management website. This is the first every website that i ever made and it made me feel like i can do something (HTML , CSS , JAVASCRIPT)",
     github: "https://github.com/arzoosingh147/projectecofy",
     live: "  https://arzoosingh147.github.io/projectecofy/",
-    image: "/src/assets/projects/ecofy.png"
+    image: "ecofy.png"
   },
   {
     id: "clothcrew",
@@ -41,7 +41,7 @@ const dummyProjects = [
     description: "Laundry website I had to make (Forcefully) for my EDP project (HTML , CSS, JAVASCRIPT)",
     github: "https://github.com/arzoosingh147/CLOTH-CREW",
     live: "https://clothcrew.netlify.app/",
-    image: "/src/assets/projects/clothcrew.png"
+    image: "clothcrew.png"
   },
   {
     id: "focus",
@@ -49,7 +49,7 @@ const dummyProjects = [
     description: "Small To-do list that helps keep track of your work (HTML , CSS, JAVASCRIPT)",
     github: "https://github.com/arzoosingh147/Focus-on-today",
     live: "https://focusontoday147.netlify.app/",
-    image: "/src/assets/projects/fot.png"
+    image: "fot.png"
   },
 ];
 

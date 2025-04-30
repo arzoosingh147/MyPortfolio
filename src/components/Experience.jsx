@@ -3,31 +3,31 @@ import React from "react";
 const hackathons = [
   {
     name: "Hack the League Hackathon",
-    image: "/src/assets/hack-the-league.jpeg",
+    image: "hack-the-league.jpeg",
     linkedin: "https://www.linkedin.com/posts/arzoo-singh-4192b324a_hacktheleague-hackathon-jecrcuniversity-activity-7209016958720069632-zH0k?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD2fyZUBTCPoL3PnZtYH6iHdy0XxpX3Dpl4",
     description: "At Hack the League, my team and I built Ainrzy — a real-time, event-driven blockchain platform focused on empowering AI-based decentralized applications. Ainrzy transforms static open-source code into dynamic, live services, offering a scalable infrastructure that supports innovation in the AI and Web3 space.One of the key innovations was how the platform separated the roles of developers and resource providers, allowing open-source projects to run seamlessly without depending on specific hardware or cloud setups. This abstraction created a powerful ecosystem where ideas could thrive, regardless of the underlying infrastructure.The hackathon was a phenomenal experience that pushed our limits, especially in combining blockchain, real-time systems, and AI — and reinforced my passion for building futuristic, impactful tech.",
   },
   {
     name: "Smart India Hackathon",
-    image: "/src/assets/sih.jpeg",
+    image: "sih.jpeg",
     linkedin: "https://www.linkedin.com/posts/arzoo-singh-4192b324a_sih-hackathon-teamwork-activity-7243969362754203650-5aR5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD2fyZUBTCPoL3PnZtYH6iHdy0XxpX3Dpl4",
     description: "At the Smart India Hackathon, my team and I built Optimuxx, a proactive, real-time DDoS protection platform designed to maintain seamless service during cyberattacks. We combined AWS Shield, Cloudflare, and WAFs to create a layered defense system with no single point of failure. Using global load balancers and CDNs, we ensured efficient traffic distribution, while real-time monitoring through Datadog and CloudWatch enabled instant threat detection. Optimuxx also featured auto-scaling infrastructure, allowing servers to adjust dynamically during attacks — a major edge over traditional, reactive solutions.",
   },
   {
     name: "Innov8 Hackathon",
-    image: "/src/assets/innov8.jpeg",
+    image: "innov8.jpeg",
     linkedin: "https://www.linkedin.com/posts/arzoo-singh-4192b324a_hackathon-innovation-teamwork-activity-7253842317567016962-cEaJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD2fyZUBTCPoL3PnZtYH6iHdy0XxpX3Dpl4",
     description: "At the Innov8 Hackathon, my team and I created Lego UI, a platform designed to simplify UI and game development while helping students earn through code. We built a library of pre-built, reusable code blocks — like digital Lego pieces — that developers can mix and match in their projects, saving time and effort. To support student developers financially, we introduced a monetization model where contributors can earn by uploading their code. The platform also includes one-time code previews, a rating system, and a support feature for inquiries, making it both user-friendly and community-driven..",
   },
   {
     name: "National Healthcare Hackathon",
-    image: "/src/assets/healthcare.jpeg",
+    image: "healthcare.jpeg",
     linkedin: "https://www.linkedin.com/posts/arzoo-singh-4192b324a_nationalhealthcarehackathon25-healthcareinnovation-activity-7297495993346928641-mvH-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD2fyZUBTCPoL3PnZtYH6iHdy0XxpX3Dpl4",
     description: "At the National Healthcare Hackathon, we tackled the challenge of minimizing errors in drug dosage and medical procedures by building MedEase — an integrated hospital data management platform. Our solution centralized all patient-related information to enable real-time access for healthcare professionals, ensuring better communication, accurate dosage administration, and reduced chances of procedural errors. MedEase aimed to create a more efficient and error-free hospital environment through streamlined, tech-driven coordination.",
   },
   {
     name: "Ace Hack Hackathon",
-    image: "/src/assets/acehack.jpeg",
+    image: "acehack.jpeg",
     linkedin: "https://www.linkedin.com/posts/arzoo-singh-4192b324a_acehack4-hackathonexperience-techinnovation-activity-7313262078721433601-y-cQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2fyZUBTCPoL3PnZtYH6iHdy0XxpX3Dpl4",
     description: "At the Ace Hack Hackathon, my team and I developed Shakti, a portable, blockchain-powered cybersecurity system designed to combat WiFi jamming, unauthorized access, and real-time cyber threats. Unlike traditional centralized solutions, Shakti offers a decentralized and autonomous defense mechanism with live network monitoring, threat detection, and automatic attack mitigation — all packaged in a compact, easy-to-deploy setup. It’s a unique step toward making advanced cybersecurity accessible and mobile.",
   },
@@ -71,7 +71,7 @@ const Experience = () => {
           here's how I’ve been levelling up
         </p>
         <img
-          src="/src/assets/experience-meme.png"
+          src="experience-meme.png"
           alt="funny experience meme"
           className="mx-auto mt-8 w-[300px] rounded-xl hover:scale-105 transition-transform"
         />

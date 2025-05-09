@@ -1,4 +1,4 @@
-%// src/components/Hero.jsx
+// src/components/Hero.jsx
 import React from "react";
 import meme from "../assets/hero-meme.png"; // your chosen meme
 

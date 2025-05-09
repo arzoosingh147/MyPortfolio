@@ -8,7 +8,7 @@ const dummyProjects = [
     title: "Sahayak",
     description: "Freelancer collab platform to post, find, and team up on projects , It's my favorite website (REACT JS,  FRAMER , TAILWIND CSS)",
     github: "https://github.com/arzoosingh147/Sahayak",
-    live: "",
+    live: "https://sahayak-brown.vercel.app/",
     image: "sahayak.png"
   },
   {
@@ -16,7 +16,7 @@ const dummyProjects = [
     title: "Miirupan",
     description: "Freelancer collab platform to post, find, and team up on projects.(Did not definitely think of my own self before making this website (REACT JS,  FRAMER , TAILWIND CSS)",
     github: "https://github.com/arzoosingh147/Miirupan",
-    live: "",
+    live: "https://miirupan.netlify.app/",
     image: "miirupan.png"
   },
   {
@@ -24,7 +24,7 @@ const dummyProjects = [
     title: "NoeNoe",
     description: "I know the name is very silly but it is what it is. Upload recyclable items, earn badges and streak points (REACT JS,  FRAMER , TAILWIND CSS)",
     github: "https://github.com/arzoosingh147/NoeNoe",
-    live: "",
+    live: "https://noe-noe.netlify.app/",
     image: "noenoe.png"
   },
   {

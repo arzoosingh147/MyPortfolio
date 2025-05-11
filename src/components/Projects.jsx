@@ -6,7 +6,7 @@ const dummyProjects = [
   {
     id: "sahayak",
     title: "Sahayak",
-    description: "Freelancer collab platform to post, find, and team up on projects , It's my favorite website (REACT JS,  FRAMER , TAILWIND CSS)",
+    description: "Sahayak is a safe and supportive space designed to help individuals struggling with mental health issues. It focuses on community-driven healing, daily mood tracking, and access to professional resources.(REACT JS,  FRAMER , TAILWIND CSS)",
     github: "https://github.com/arzoosingh147/Sahayak",
     live: "https://sahayak-brown.vercel.app/",
     image: "sahayak.png"

@@ -12,22 +12,36 @@ import {
 } from "react-icons/fa";
 import { SiTailwindcss, SiFramer, SiFirebase, SiVite } from "react-icons/si";
 import { TbBrandVscode } from "react-icons/tb";
+import { SiNextdotjs, SiTypescript, SiPostgresql } from "react-icons/si";
+import { FaPython } from "react-icons/fa";
+import { TbSql } from "react-icons/tb";
 
 const techSkills = [
   { name: "HTML", icon: <FaHtml5 className="text-orange-500" /> },
   { name: "CSS", icon: <FaCss3Alt className="text-blue-500" /> },
   { name: "JavaScript", icon: <FaJs className="text-yellow-400" /> },
   { name: "React", icon: <FaReact className="text-cyan-400" /> },
+  { name: "React Hooks", icon: <FaReact className="text-cyan-500" /> },
+
+  { name: "Next.js", icon: <SiNextdotjs className="text-black" /> },
+  { name: "TypeScript", icon: <SiTypescript className="text-blue-600" /> },
+
   { name: "Tailwind", icon: <SiTailwindcss className="text-sky-400" /> },
   { name: "Framer Motion", icon: <SiFramer className="text-pink-400" /> },
+
   { name: "Git", icon: <FaGitAlt className="text-red-500" /> },
   { name: "GitHub", icon: <FaGithub className="text-black" /> },
+
   { name: "Firebase", icon: <SiFirebase className="text-yellow-500" /> },
+
+  { name: "Python", icon: <FaPython className="text-yellow-500" /> },
+  { name: "SQL", icon: <TbSql className="text-blue-500" /> },
+  { name: "PostgreSQL", icon: <SiPostgresql className="text-blue-700" /> },
+
   { name: "Figma", icon: <FaFigma className="text-pink-600" /> },
   { name: "Vite", icon: <SiVite className="text-purple-500" /> },
   { name: "VSCode", icon: <TbBrandVscode className="text-blue-600" /> },
 ];
-
 const softSkills = [
   "Creativity",
   "Teamwork",
@@ -37,6 +51,7 @@ const softSkills = [
   "Leadership",
   "Problem Solving",
   "Time Management",
+  "Public Speaking",
 ];
 
 const fadeInUp = {
